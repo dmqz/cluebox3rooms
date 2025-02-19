@@ -1,0 +1,33 @@
+{
+    "room1": [
+        {
+            "sound": "sleepy.MP3",
+            "text": "You look like you're getting sleepy"
+        },
+        {
+            "sound": "toilet.MP3",
+            "text": "Sometimes you need to go where other people have gone."
+        }
+    ],
+    "room2": [
+        {
+            "sound": "screwed.MP3",
+            "text": "You're screwed if you can't get your heads aligned"
+        },
+        {
+            "sound": "contraband.MP3",
+            "text": "Don't vent to me! Find your contraband"
+        }
+    ],
+    "room3": [
+        {
+            "sound": "toilet.MP3",
+            "text": "A key to your escape is closer than you think."
+        },
+        {
+            "sound": "sleepy.MP3",
+            "text": "This is the final clue, make it count!"
+        }
+    ]
+}
+
